@@ -1,0 +1,2 @@
+def estadisticas():
+    print('WIP')
